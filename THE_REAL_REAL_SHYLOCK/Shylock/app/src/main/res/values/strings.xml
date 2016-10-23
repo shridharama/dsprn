@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shylock</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_data">DataActivity</string>
+    <string name="title_activity_draw_map">DrawMap</string>
+    <string name="title_activity_map_draw">MapDrawActivity</string>
+</resources>
