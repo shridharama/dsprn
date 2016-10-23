@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">Shylock</string>
+  <string name="landscape_text">Merchant facing app. Here are some charts: </string>
+  <string name="portrait_text">This is in customer facing mode, both Action Bar and System Bar are hidden.</string>
+</resources>
